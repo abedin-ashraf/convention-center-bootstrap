@@ -48,4 +48,4 @@ When contributing, please adhere to the existing code style and conventions. Pro
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code as per the terms of the license.
+You are free to modify and distribute the code as per the terms of the license.
